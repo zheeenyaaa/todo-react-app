@@ -17,7 +17,7 @@ export default class App extends Component {
     items: [
       { id: 1, label: 'Drink Coffee', important: false, done: false },
       { id: 2, label: 'Read Book', important: true, done: false },
-      { id: 3, label: 'Walk', important: false, done: false }
+      { id: 3, label: 'Walk around park', important: false, done: false }
     ],
     filter: 'all',
     search: ''
